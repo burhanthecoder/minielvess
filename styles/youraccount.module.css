@@ -1,0 +1,33 @@
+
+.outter{
+    display: flex;
+    margin: 0.5rem;
+    padding: 0.75rem 0;
+    text-align: center;
+    justify-content: center;
+}
+
+.outter div{
+    width: 20%;
+    border: 2px solid #000;
+    margin: 0.5rem;
+    padding: 0.75rem 0;
+    text-align: center;
+    justify-content: center;
+}
+
+/* .outter div:hover {
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(0, 0, 0, 0.205) 100%);
+    color: white;
+  } */
+
+.outter div img{
+    width: 40px;
+    padding: 10px;
+    
+}
+.outter div img:hover{
+    width: 50px;
+    padding: 10px;
+
+}
